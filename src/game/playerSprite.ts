@@ -1,2 +1,1 @@
-export { PLAYER_SRC } from "./playerSrc";
-export const PLAYER_DEAD_SRC = PLAYER_SRC;
+export { PLAYER_SRC, PLAYER_SRC as PLAYER_DEAD_SRC } from "./playerSrc";
