@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Tappy Tom",
+      "hasCanvas": true,
+      "bodyTextLen": 22,
+      "bodyTextHash": "4c6fc253b52ccb682ef8789f1f4848d97cc19d98972c61eb5100ad6c81407702",
+      "bodyTextPrefix": "Tom3121 0 HIGH SCORE 0",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Tappy Tom",
+      "hasCanvas": true,
+      "bodyTextLen": 22,
+      "bodyTextHash": "2c8bcda3dfd651e222859eb34d9b00c69475a52d66047b6a4eedfe443991072f",
+      "bodyTextPrefix": "Tom8272 0 HIGH SCORE 0",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
