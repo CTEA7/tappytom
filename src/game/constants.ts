@@ -10,11 +10,11 @@ export function setViewHeight(h: number) {
 }
 
 export const BIRD_X = 72;
-export const BIRD_DRAW_W = 46;
-export const BIRD_DRAW_H = 62;
+export const BIRD_DRAW_W = 72;
+export const BIRD_DRAW_H = 46;
 /** Collision box — a bit inside the photo so a slight graze can slip by. */
-export const HIT_W = 36;
-export const HIT_H = 48;
+export const HIT_W = 42;
+export const HIT_H = 28;
 
 export const GRAVITY = 1380;
 export const FLAP_V = -420;
